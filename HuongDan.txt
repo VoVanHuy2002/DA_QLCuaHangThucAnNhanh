@@ -1,0 +1,12 @@
+B1 Giải nén File
+B2 Mở sql và knoi (nằm trong file winform)
+B3 Tải và cài đặt intellij IDEA 2023.2.5 
+B4 Cách xem IP vào CMD gõ ipconfig
+B5 chạy file BE và đổi địa chỉ IP ở resources->application đổi IP
+B6 Chạy file Winform 
+B7 Vào GG (link: https://cloudinary.com/)
+Cloud Name 
+API Key
+API Secret
+ở file Winform solution Datalayer->CloudinaryHelper.cs đổi lần lượt các dòng Cloud Name, API Key, API Secret
+B8 Chạy Android Studio và đổi IP ở Main->Java->projact->service->BaseClient đổi Ip

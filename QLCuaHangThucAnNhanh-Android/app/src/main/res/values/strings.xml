@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Order Food HUIT</string>
+    <string name="order_eat"><![CDATA[Order & Eat]]></string>
+    <string name="reset_password"><u>Yêu cầu cấp lại mật khẩu</u></string>
+</resources>

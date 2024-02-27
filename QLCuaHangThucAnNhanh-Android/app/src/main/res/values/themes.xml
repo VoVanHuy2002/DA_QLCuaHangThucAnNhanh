@@ -1,0 +1,52 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QLCuaHangThucAnNhanhAndroid" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.QLCuaHangThucAnNhanhAndroid" parent="Base.Theme.QLCuaHangThucAnNhanhAndroid" />
+
+    <!--    Button-->
+    <style name="orange_button_background" parent="Widget.MaterialComponents.ExtendedFloatingActionButton">
+        <item name="cornerRadius">36dp</item>
+        <item name="backgroundTint">@color/orange</item>
+        <item name="android:textSize">24dp</item>
+        <item name="android:layout_margin">32dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="orange_button_background_confirm" parent="Widget.MaterialComponents.ExtendedFloatingActionButton">
+        <item name="cornerRadius">36dp</item>
+        <item name="backgroundTint">@color/orange</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="orange_button_background_confirm2" parent="Widget.MaterialComponents.ExtendedFloatingActionButton">
+        <item name="cornerRadius">36dp</item>
+        <item name="backgroundTint">@color/light</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/orange</item>
+    </style>
+
+    <style name="custom_button_background" parent="Widget.MaterialComponents.ExtendedFloatingActionButton">
+        <item name="cornerRadius">36dp</item>
+        <item name="backgroundTint">@color/orange</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="disable_button_background" parent="Widget.MaterialComponents.ExtendedFloatingActionButton">
+        <item name="cornerRadius">36dp</item>
+        <item name="backgroundTint">@color/darkGrey</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>
